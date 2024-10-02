@@ -19,3 +19,20 @@ A Streamlit-based web application to analyze WhatsApp chat data, generating vari
    
 5. ### User-Level Analysis:
    Filter data based on individual users or view overall group activity.
+
+## Live Demo
+
+You can access the live version of the application here:
+
+
+## File Structure
+1. ### app.py:
+   The main file that runs the Streamlit app. It handles file uploads, calling helper functions, and displaying results.
+   
+2. ### helper.py:
+   Contains functions to compute statistics, activity timelines, and heatmaps.
+   
+3. ### preprocessor.py:
+   Preprocesses the raw WhatsApp chat data by extracting date-time information, users, and messages.
+
+
