@@ -26,6 +26,14 @@ A Streamlit-based web application to analyze WhatsApp chat data, generating vari
 You can access the live version of the application here:
 https://whatsapp-chat-analyzer-j9p2.onrender.com/
 
+## Screenshots
+
+<img src ="https://github.com/SiddharthKrSingh/WhatsApp-Chat-Analyzer/blob/main/images/img1.png" >
+<img src= "https://github.com/SiddharthKrSingh/WhatsApp-Chat-Analyzer/blob/main/images/img2.png" >
+<img src= "https://github.com/SiddharthKrSingh/WhatsApp-Chat-Analyzer/blob/main/images/img3.png" >
+<img src= "https://github.com/SiddharthKrSingh/WhatsApp-Chat-Analyzer/blob/main/images/img4.png" >
+<img src= "https://github.com/SiddharthKrSingh/WhatsApp-Chat-Analyzer/blob/main/images/img5.png" >
+
 
 ## File Structure
 
