@@ -24,6 +24,7 @@ A Streamlit-based web application to analyze WhatsApp chat data, generating vari
 ## Live Demo
 
 You can access the live version of the application here:
+https://whatsapp-chat-analyzer-j9p2.onrender.com/
 
 
 ## File Structure
